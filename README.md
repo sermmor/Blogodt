@@ -24,4 +24,4 @@ This application is for download and upload posts to a blog (publish and draft) 
 # Screenshot
 ![Capture1](https://raw.githubusercontent.com/sermmor/Blogodt/master/Capture.png)
 
-**IMPORTANT NOTE**: I finish this project in December 2011, and I won't do an update of this anymore.
+**IMPORTANT NOTE**: I finished this project in December 2011, and I won't do an update of this anymore.
