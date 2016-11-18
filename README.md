@@ -20,4 +20,8 @@ This application is for download and upload posts to a blog (publish and draft) 
 - [bitlyapi](https://github.com/bitly/bitly-api-python)
 - [odfpy](https://github.com/eea/odfpy)
 
+
+# Screenshot
+![Capture1](https://raw.githubusercontent.com/sermmor/Blogodt/master/Capture.png)
+
 **IMPORTANT NOTE**: I finish this project in December 2011, and I won't do an update of this anymore.
